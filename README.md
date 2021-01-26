@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 ## My name is Ernesto I'm automatic engineer and backed developer.
-## I'm a JavaScript one, JS,TS,NodeJS, you know.... but I am continuously learning other techs.
-
+# How can I help you?
 - 📫 How to reach me: https://www.linkedin.com/in/miguel-ernesto-cisnero-de-la-cruz/
 
 <!--
