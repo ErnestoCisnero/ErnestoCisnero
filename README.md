@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My name is Ernesto I'm automatic engineer and backed developer.
+## Automatic Engineer & MSc. Electrical Engineering in process. I love programming, SW-Web Development.
 # How can I help you?
 - 📫 How to reach me: https://www.linkedin.com/in/miguel-ernesto-cisnero-de-la-cruz/
 
